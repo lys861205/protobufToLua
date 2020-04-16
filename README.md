@@ -1,2 +1,2 @@
 # protobufToLua
-protobuf message convert to lua table
+protobuf结构转lua表
